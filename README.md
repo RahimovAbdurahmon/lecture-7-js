@@ -1,1 +1,2 @@
-LECTURE 7
+# LECTURE 7
+# about Dom
